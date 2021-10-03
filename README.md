@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou fazendo estágio em Costumer Success
-- 🔭 Estou estudando javascript, HTML e CSS
+- 🔭 Estou estudando JAVASCRIPT, Mongo, SQLITE, API REST e NODE JS. 
 - 👯 Gosto de trabalhar em equipe
 
 <div align="center">
